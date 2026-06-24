@@ -1,1 +1,2 @@
-print("hello Java is the most powewrful languages")
+print("hello world")
+print("asss")
